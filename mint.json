@@ -38,17 +38,20 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://mintlify.com/docs",
+       "version": "v1"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://mintlify.com/community",
+       "version": "v1"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://mintlify.com/blog",
+       "version": "v1"
     }
   ],
   "navigation": [
