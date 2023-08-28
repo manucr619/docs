@@ -45,13 +45,13 @@
       "name": "Community",
       "icon": "slack",
       "url": "https://mintlify.com/community",
-       "version": "v1"
+       "version": "v2"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog",
-       "version": "v1"
+       "version": "v3"
     }
   ],
   "navigation": [
